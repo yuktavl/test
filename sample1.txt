@@ -1,3 +1,5 @@
 a = 12
 if a > 0:
-   print("a is positive)
+   print("a is positive) #commit1
+elif a<0:
+   print("a is negative) #commit2
